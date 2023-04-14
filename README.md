@@ -18,7 +18,7 @@ It aims to:
 
 ## Philosophy
 
-The philosophy underpinning this framework advocates:
+The philosophy underpinning this framework advocates :
 
 * Engineering led by user needs and service outcomes
 * Empowered delivery teams which are accountable for their products
